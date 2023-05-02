@@ -9,7 +9,7 @@
 
 #### **Connect With Me**
 
-<a href="www.linkedin.com/in/patrick--meyer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="5%" height="5%"></a>
-<a href="meyerpatrick6378@gmail.com"><img src="https://logos-world.net/wp-content/uploads/2021/02/Outlook-Logo-700x394.png" width="9%" height="9%"></a>
+[<img alt="alt_text" width="5%" height="5%" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/patrick--meyer)
+[<img alt="alt_text" width="9%" height="9%" src="https://logos-world.net/wp-content/uploads/2021/02/Outlook-Logo-700x394.png" />](<mailto:meyerpatrick6378@gmail.com>)
 
 
