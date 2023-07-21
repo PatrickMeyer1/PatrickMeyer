@@ -2,7 +2,7 @@
 
 * Heading into my 3rd year of Computer Science (CO-OP) at uOttawa &nbsp; <img src= "https://www.uottawa.ca/brand/sites/www.uottawa.ca.brand/files/4_2_7_large_white_logo_on_garnet.png" width="4%" height="4%">
 * Interested in Software Architecture, Automation, Back-end Development
-* Languages: Java, Python, Go
+* Languages: Java, C#, Python, Go
 * Web Development: Javascript, HTML, CSS
 
 
